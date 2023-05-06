@@ -2,7 +2,12 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yiliou&show_icons=true&theme=dark)](https://github.com/yiliou/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yiliou&layout=compact)](https://github.com/yiliou/github-readme-stats)
-
+<a href="https://github.com/yiliou/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yiliou&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/yiliou/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yilioua&repo=convoychat" />
+</a>
 <!--
 **yiliou/yiliou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
